@@ -1,0 +1,7 @@
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\6.conversion_parse_and_tryparse\6.conversion_parse_and_tryparse\bin\Debug\6.conversion_parse_and_tryparse.exe.config
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\6.conversion_parse_and_tryparse\6.conversion_parse_and_tryparse\bin\Debug\6.conversion_parse_and_tryparse.exe
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\6.conversion_parse_and_tryparse\6.conversion_parse_and_tryparse\bin\Debug\6.conversion_parse_and_tryparse.pdb
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\6.conversion_parse_and_tryparse\6.conversion_parse_and_tryparse\obj\Debug\6.conversion_parse_and_tryparse.csproj.AssemblyReference.cache
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\6.conversion_parse_and_tryparse\6.conversion_parse_and_tryparse\obj\Debug\6.conversion_parse_and_tryparse.csproj.CoreCompileInputs.cache
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\6.conversion_parse_and_tryparse\6.conversion_parse_and_tryparse\obj\Debug\6.conversion_parse_and_tryparse.exe
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\6.conversion_parse_and_tryparse\6.conversion_parse_and_tryparse\obj\Debug\6.conversion_parse_and_tryparse.pdb

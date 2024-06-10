@@ -1,0 +1,7 @@
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\7.arithmetic_operations\7.arithmetic_operations\bin\x64\Debug\7.arithmetic_operations.exe.config
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\7.arithmetic_operations\7.arithmetic_operations\bin\x64\Debug\7.arithmetic_operations.exe
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\7.arithmetic_operations\7.arithmetic_operations\bin\x64\Debug\7.arithmetic_operations.pdb
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\7.arithmetic_operations\7.arithmetic_operations\obj\x64\Debug\7.arithmetic_operations.csproj.AssemblyReference.cache
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\7.arithmetic_operations\7.arithmetic_operations\obj\x64\Debug\7.arithmetic_operations.csproj.CoreCompileInputs.cache
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\7.arithmetic_operations\7.arithmetic_operations\obj\x64\Debug\7.arithmetic_operations.exe
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\7.arithmetic_operations\7.arithmetic_operations\obj\x64\Debug\7.arithmetic_operations.pdb
