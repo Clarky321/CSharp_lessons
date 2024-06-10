@@ -1,0 +1,7 @@
+D:\!!loran-project\C#\CSharp_lessons\Homework\1.homework\1.2.homework\bin\Debug\1.2.homework.exe.config
+D:\!!loran-project\C#\CSharp_lessons\Homework\1.homework\1.2.homework\bin\Debug\1.2.homework.exe
+D:\!!loran-project\C#\CSharp_lessons\Homework\1.homework\1.2.homework\bin\Debug\1.2.homework.pdb
+D:\!!loran-project\C#\CSharp_lessons\Homework\1.homework\1.2.homework\obj\Debug\1.2.homework.csproj.AssemblyReference.cache
+D:\!!loran-project\C#\CSharp_lessons\Homework\1.homework\1.2.homework\obj\Debug\1.2.homework.csproj.CoreCompileInputs.cache
+D:\!!loran-project\C#\CSharp_lessons\Homework\1.homework\1.2.homework\obj\Debug\1.2.homework.exe
+D:\!!loran-project\C#\CSharp_lessons\Homework\1.homework\1.2.homework\obj\Debug\1.2.homework.pdb
