@@ -1,0 +1,7 @@
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\5.convert_class\5.convert_class\bin\x64\Debug\5.convert_class.exe.config
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\5.convert_class\5.convert_class\bin\x64\Debug\5.convert_class.exe
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\5.convert_class\5.convert_class\bin\x64\Debug\5.convert_class.pdb
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\5.convert_class\5.convert_class\obj\x64\Debug\5.convert_class.csproj.AssemblyReference.cache
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\5.convert_class\5.convert_class\obj\x64\Debug\5.convert_class.csproj.CoreCompileInputs.cache
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\5.convert_class\5.convert_class\obj\x64\Debug\5.convert_class.exe
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\5.convert_class\5.convert_class\obj\x64\Debug\5.convert_class.pdb

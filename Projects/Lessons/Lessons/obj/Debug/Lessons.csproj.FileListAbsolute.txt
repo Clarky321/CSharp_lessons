@@ -1,7 +1,0 @@
-D:\loran-project\С#\CSharp_lessons\Projects\Lessons\Lessons\bin\Debug\Lessons.exe.config
-D:\loran-project\С#\CSharp_lessons\Projects\Lessons\Lessons\bin\Debug\Lessons.exe
-D:\loran-project\С#\CSharp_lessons\Projects\Lessons\Lessons\bin\Debug\Lessons.pdb
-D:\loran-project\С#\CSharp_lessons\Projects\Lessons\Lessons\obj\Debug\Lessons.csproj.AssemblyReference.cache
-D:\loran-project\С#\CSharp_lessons\Projects\Lessons\Lessons\obj\Debug\Lessons.csproj.CoreCompileInputs.cache
-D:\loran-project\С#\CSharp_lessons\Projects\Lessons\Lessons\obj\Debug\Lessons.exe
-D:\loran-project\С#\CSharp_lessons\Projects\Lessons\Lessons\obj\Debug\Lessons.pdb

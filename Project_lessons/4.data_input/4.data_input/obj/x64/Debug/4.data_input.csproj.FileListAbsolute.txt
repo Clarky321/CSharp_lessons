@@ -1,0 +1,7 @@
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\4.data_input\4.data_input\bin\x64\Debug\4.data_input.exe.config
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\4.data_input\4.data_input\bin\x64\Debug\4.data_input.exe
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\4.data_input\4.data_input\bin\x64\Debug\4.data_input.pdb
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\4.data_input\4.data_input\obj\x64\Debug\4.data_input.csproj.AssemblyReference.cache
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\4.data_input\4.data_input\obj\x64\Debug\4.data_input.csproj.CoreCompileInputs.cache
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\4.data_input\4.data_input\obj\x64\Debug\4.data_input.exe
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\4.data_input\4.data_input\obj\x64\Debug\4.data_input.pdb

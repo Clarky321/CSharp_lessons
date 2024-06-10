@@ -1,0 +1,7 @@
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\1.struct_project\1.struct_project\bin\x64\Debug\1.struct_project.exe.config
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\1.struct_project\1.struct_project\bin\x64\Debug\1.struct_project.exe
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\1.struct_project\1.struct_project\bin\x64\Debug\1.struct_project.pdb
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\1.struct_project\1.struct_project\obj\x64\Debug\1.struct_project.csproj.AssemblyReference.cache
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\1.struct_project\1.struct_project\obj\x64\Debug\1.struct_project.csproj.CoreCompileInputs.cache
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\1.struct_project\1.struct_project\obj\x64\Debug\1.struct_project.exe
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\1.struct_project\1.struct_project\obj\x64\Debug\1.struct_project.pdb

@@ -1,0 +1,7 @@
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\2.data_types\2.data_types\bin\x64\Debug\2.data_types.exe.config
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\2.data_types\2.data_types\bin\x64\Debug\2.data_types.exe
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\2.data_types\2.data_types\bin\x64\Debug\2.data_types.pdb
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\2.data_types\2.data_types\obj\x64\Debug\2.data_types.csproj.AssemblyReference.cache
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\2.data_types\2.data_types\obj\x64\Debug\2.data_types.csproj.CoreCompileInputs.cache
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\2.data_types\2.data_types\obj\x64\Debug\2.data_types.exe
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\2.data_types\2.data_types\obj\x64\Debug\2.data_types.pdb

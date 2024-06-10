@@ -1,0 +1,7 @@
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\3.variables\3.variables\bin\x64\Debug\3.variables.exe.config
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\3.variables\3.variables\bin\x64\Debug\3.variables.exe
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\3.variables\3.variables\bin\x64\Debug\3.variables.pdb
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\3.variables\3.variables\obj\x64\Debug\3.variables.csproj.AssemblyReference.cache
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\3.variables\3.variables\obj\x64\Debug\3.variables.csproj.CoreCompileInputs.cache
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\3.variables\3.variables\obj\x64\Debug\3.variables.exe
+D:\!!loran-project\C#\CSharp_lessons\Project_lessons\3.variables\3.variables\obj\x64\Debug\3.variables.pdb
